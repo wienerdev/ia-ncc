@@ -10,29 +10,49 @@
     @include mobile {
         justify-content: space-around;
     }
-    .inicio{
+
+    .inicio {
         display: flex;
         flex-direction: column;
-        height: 100%;
         flex-grow: 0;
-        @include mobile{
+        margin-top: 40px;
+
+        @include mobile {
             height: 10%;
         }
-        h1{
+
+        h1 {
             padding-bottom: 2rem;
             text-align: center;
             color: $mainColor;
         }
-    
-        text{
+
+        text {
             text-align: center;
             padding: 1rem;
             text-align: justify;
             font-size: 1.2em;
             padding: 0 5rem;
+
             @include mobile {
                 display: none;
             }
         }
     }
+
+    img {
+        margin-top: 30px;
+        margin-left: 25%;
+        width: 50%;
+        height: 50%;
+    }
+
+    .textCode {
+        margin-top: 100px;
+    }
+
+    .tituloCodigo {
+        margin-top: 50px;
+    }
+
 }
