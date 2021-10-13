@@ -3,7 +3,7 @@ import Typography from '@mui/material/Typography';
 
 export default function Concepts() {
     return (
-        <div className="objectives" id="concepts">
+        <div className="objectives">
             <div className="inicio">
                 <h1>
                     Linguagem de programação Python

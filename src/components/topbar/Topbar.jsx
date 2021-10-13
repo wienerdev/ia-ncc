@@ -8,13 +8,13 @@ export default function Topbar({menuOpen, setMenuOpen}) {
     return (
         <div className="topbar">
             <div className="wrapper">
-            <Link to="/#intro">
+            <Link to="/">
                     <img className="logo" src="assets/inteligencia-artificial_1.png" alt="logo" />
                 </Link>
                 <div className="itemContainer">
-                        <Link to="/#intro">Home</Link>
-                        <Link to="/#concepts">Conceito</Link>
-                        <Link to="/#codes">Código</Link>
+                        <Link to="/">Home</Link>
+                        <Link to="/concepts">Conceito</Link>
+                        <Link to="/codes">Código</Link>
                         {/* <Link to="/sites">Sites de interesse</Link> */}
                 </div>
                 <a className="cta" href="https://forms.gle/h6qAFNfrv9ePnENBA" target="_blank" rel="noreferrer"> <button>Inscreva-se no NCC</button></a>

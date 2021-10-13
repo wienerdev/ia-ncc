@@ -3,7 +3,7 @@ import Typography from '@mui/material/Typography';
 
 export default function Codes() {
     return (
-        <div className="objectives" id="codes">
+        <div className="objectives">
 
             <div className="inicio">
                 <h1 class="tituloCodigo">

@@ -2,7 +2,7 @@ import "./intro.scss"
 
 export default function Intro() {
     return (
-        <div className="home" id="intro">
+        <div className="home">
             <div className="container">
             <div className='left'>
                 <h1>Covid-19 detection in computer vision and artificial intelligence</h1>
