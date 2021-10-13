@@ -2,6 +2,7 @@
 
 .home{
     background-color: white;
+    margin-top: 70px;
 
 .container{
         display: flex;
@@ -58,7 +59,8 @@
             img{
                 width: 30vw;
             @include mobile{
-                width: 100%;
+                width: 90%;
+                margin-left: 30px;
             }
             }
         }
