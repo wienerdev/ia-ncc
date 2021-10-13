@@ -1,0 +1,91 @@
+@import "../../global.scss";
+
+.topbar {
+    width: 100%;
+    height: 120px;
+    background-color: white;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+
+    
+    li, a, button {
+        font-weight: 500;
+        font-size: 16px;
+        color: #3C3C3C;
+        text-decoration: none;
+    }
+
+    .wrapper{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 15px 3rem;
+
+        .logo {
+          cursor: pointer;  
+          height: auto;
+          width: auto;
+          max-height: 90px;
+          max-width: 250px;
+          vertical-align: middle;
+        }
+        .itemContainer {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding-left: 4rem;
+            
+            a {
+                padding: 0px 4rem;
+            }
+            a:hover {
+                color: purple;
+                transition: .5s;
+            }
+            @include mobile{
+                display: none;
+            }
+        }
+
+        button{
+            padding: 13px 40px;
+            background-color: $mainColor;
+            color: white;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s ease 0s;
+            border: none;
+            @include mobile{
+                display: none;
+            }
+        }
+        button:hover{
+            background-color: $hoverColor;
+        }
+
+        .right{
+            display: none;
+            @include mobile{
+                display: block;
+            }
+            .hamburguer{
+                width: 32px;
+                height: 25px;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                cursor: pointer;
+
+                span{
+                    width: 100%;
+                    height: 3px;
+                    background-color: $mainColor;
+                    transform-origin: left;
+                    transition: all 1s ease;
+                }
+            }
+        
+        }
+    }
+}
