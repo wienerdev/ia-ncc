@@ -58,7 +58,8 @@
             img{
                 width: 30vw;
             @include mobile{
-                width: 100%;
+                width: 90%;
+                margin-left: 30px;
             }
             }
         }
