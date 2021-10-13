@@ -1,20 +1,29 @@
-.app{
+.app {
     height: 100vh;
+    
 
-    *{
+    * {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
     }
-    .sections{
+
+    .sections {
         width: 100%;
         /* height: calc(100vh - 100px); */
         position: relative;
         top: 100px;
 
-        > *{
+        >* {
             width: 100vw;
             scroll-snap-align: start;
         }
     }
+
+    body { 
+        zoom: 3; 
+        -moz-transform: scale(3); 
+        -moz-transform-origin: 0 0;
+    }
+
 }

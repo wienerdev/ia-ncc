@@ -13,8 +13,8 @@ export default function Topbar({menuOpen, setMenuOpen}) {
                 </Link>
                 <div className="itemContainer">
                         <Link to="/#intro">Home</Link>
-                        <Link to="/#">Conceito</Link>
-                        <Link to="/#">Código</Link>
+                        <Link to="/#concepts">Conceito</Link>
+                        <Link to="/#codes">Código</Link>
                         {/* <Link to="/sites">Sites de interesse</Link> */}
                 </div>
                 <a className="cta" href="https://forms.gle/h6qAFNfrv9ePnENBA" target="_blank" rel="noreferrer"> <button>Inscreva-se no NCC</button></a>
