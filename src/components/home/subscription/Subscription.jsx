@@ -11,7 +11,7 @@ export default function Subscription() {
                 <div className="item">
                     Aderbal Botelho Leite Neto
                 </div>
-                <div className="item">
+                {/* <div className="item">
                     Antonio Barbosa Jr.
                 </div>
                 <div className="item">
@@ -22,7 +22,7 @@ export default function Subscription() {
                 </div>
                 <div className="item">
                     Ebenezer Rangel Botelho
-                </div>
+                </div> */}
             </div>
             <Footbar />
         </div>
