@@ -10,7 +10,7 @@
 </p>
   <h3> Parte 2 </h3>
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/78852609/137232957-f36c790f-4e0b-48c2-88dd-13e5a0cd1f1c.PNG"
+    <img src="https://user-images.githubusercontent.com/78852609/137324546-c2ad3c90-2f6a-4a03-875a-8c6bf7b823fd.PNG"
 </p>
 <h2>🖥️ Conceitos </h2>
 <p align="center">
