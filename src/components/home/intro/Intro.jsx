@@ -4,13 +4,27 @@ export default function Intro() {
     return (
         <div className="home">
             <div className="container">
-            <div className='left'>
-                <h1>Covid-19 detection in computer vision and artificial intelligence</h1>
+                <div className='left1'>
+                    <h1>Inteligência artificial aplicada a visão computacional</h1>
+                </div>
+                <div className='right'>
+                    <img src="assets/inteligencia-artificial_2.png" alt="Inteligência Artificial - IA" />
+                </div>
+
             </div>
-            <div className='right'>
-                <img src="assets/inteligencia-artificial_2.png" alt="Inteligência Artificial - IA" />
+            <div className="container">
+                <div className="left2">
+                    <h3>Veja o vídeo:</h3>
+                </div>
             </div>
-            </div>
+            <h3>
+                <iframe width="560" height="315"
+                    src="https://www.youtube.com/embed/nUxLKbbQWxw"
+                    title="YouTube video player" frameborder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowfullscreen></iframe>
+            </h3>
+
         </div>
     )
 }

@@ -14,7 +14,7 @@ export default function Topbar({menuOpen, setMenuOpen}) {
                 <div className="itemContainer">
                         <Link to="/">Home</Link>
                         <Link to="/concepts">Conceito</Link>
-                        <Link to="/codes">Código</Link>
+                        <Link to="/codes">Covid-19</Link>
                         <Link to="/imageption">Imageption</Link>
                         {/* <Link to="/sites">Sites de interesse</Link> */}
                 </div>
