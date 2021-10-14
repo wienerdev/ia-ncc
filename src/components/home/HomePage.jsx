@@ -3,6 +3,7 @@ import Intro from './intro/Intro'
 import Concepts from './concepts/Concepts'
 import Codes from './codes/Codes'
 import Subscription from './subscription/Subscription'
+import Imageption from './imageption/Imageption'
 
 export default function HomePage() {
     return (
@@ -10,6 +11,7 @@ export default function HomePage() {
         <Intro />
         <Concepts/>
         <Codes/>
+        <Imageption/>
         <Subscription />
       </div>
     )
