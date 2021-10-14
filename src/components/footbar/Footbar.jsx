@@ -40,12 +40,13 @@ export default function Footbar() {
                     <span>Centro de Atendimento à Comunidade: Setor Comercial Sul, Quadra 1 - Edificio União, Brasília-DF</span>
                 </div>
                 <div className="right">
-                    <a href="https://www.ceubos.com.br">CeubOS</a>
-                    <a href="https://ctf.ceubos.com.br">Competições CTF</a>
-                    <a href="https://boca.ceubos.com.br/boca">Treino ICPC</a>
-                    <a href="https://ia.ceubos.com.br">Turma IA</a>
-                    <a href="https://jenkins.ceubos.com.br/">Automatizador de processos</a>
-                    <a href="https://koop.ceubos.com.br/">Projetos colaborativos</a>
+                    <a href="https://www.ceubos.com.br" target="_blank" rel="noreferrer">CeubOS</a>
+                    <a href="https://ctf.ceubos.com.br" target="_blank" rel="noreferrer">Competições CTF</a>
+                    <a href="https://boca.ceubos.com.br/boca" target="_blank" rel="noreferrer">Treino ICPC</a>
+                    <a href="https://ia.ceubos.com.br" target="_blank" rel="noreferrer">Turma IA</a>
+                    <a href="https://jenkins.ceubos.com.br/" target="_blank" rel="noreferrer">Automatizador de processos</a>
+                    <a href="https://koop.ceubos.com.br/" target="_blank" rel="noreferrer">Projetos colaborativos</a>
+                    <a href="https://jupyter.ceubos.com.br/" target="_blank" rel="noreferrer">Jupyter Notebook</a>
                 </div>
             </div>
         </div>

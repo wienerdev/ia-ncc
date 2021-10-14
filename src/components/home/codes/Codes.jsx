@@ -7,7 +7,7 @@ export default function Codes() {
 
             <div className="inicio">
                 <h1>
-                    Código
+                Covid-19 detection in computer vision and artificial intelligence
                 </h1>
                 <Typography variant="h6" class="typography">
                     No jupyther notebook , comecei a importar as bibliotecas que iria usar para começar o código.
