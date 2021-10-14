@@ -1,10 +1,62 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/78852609/137232446-44373930-5eab-4f15-8da0-b67ef75e1a9d.png" width="600px">
+</h1>
+<br>
+<br>
+<h2>🖥️ Home </h2>
+<h3> Parte 1 </h3>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/78852609/137232860-508e427c-482c-417e-98e7-b80735c28e56.PNG"
+</p>
+  <h3> Parte 2 </h3>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/78852609/137232957-f36c790f-4e0b-48c2-88dd-13e5a0cd1f1c.PNG"
+</p>
+<h2>🖥️ Conceitos </h2>
+<p align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <img src="https://user-images.githubusercontent.com/78852609/137233040-105c7615-1976-418a-b6ab-290edcae5095.PNG">
+</p>
+<h2>🖥️ Código </h2>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78852609/137233099-bb4c5244-ab55-4ab5-bf46-84c4f87adbb6.PNG">
+</p>
+</br>
 
-## Available Scripts
+## 💬 Sobre o projeto
 
-In the project directory, you can run:
+O **NCC - Inteligência Artificial** é uma aplicação web para um software que está sendo desenvolvido em Python por um grupo de estudos do UniCEUB, utilizando Inteligência Artificial, Machine Learning e Deep Learning para detecção de Covid-19 e pneumonia em pulmões infectados (análise de raio-x).
+
+<!-- Ao logar na aplicação com nosso username do GitHub vamos para a página home, nela vemos nossos amigos (seguidores do GitHub), as comunidades que participamos, e os últimos recados deixados. Além disso é possível criar novas comunidades e novos recados! -->
+
+## 🧠 Funcionalidades
+
+<ul>
+  <li>Navegação entre as páginas;</li>
+  <li>Botão para registro da participação do Núcleo de Computação Competitiva;</li>
+  <li>Conceitos de todas as tecnologias que estão sendo usadas no desenvolvimento;</li>
+  <li>Passo a passo da execução do código para detecção das doenças através de redes neurais;</li>
+  <li>Lista de todos os professores envolvidos;</li>
+</ul>
+
+## 🛠 Tecnologias utilizadas
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [ReactJS](https://reactjs.org)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML5](https://www.w3schools.com/html/)
+- [CSS3](https://www.w3schools.com/css/)
+
+## 📌 Como utilizar?
+
+_Para utilizar o **NCC - Inteligência Artificial**, basta acessá-lo diretamente no seu navegador! [Clique aqui](https://ia-ncc.herokuapp.com/)_
+
+---
+
+
+
+<!--In the project directory, you can run:
 
 ### `yarn start`
 
@@ -37,34 +89,4 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.-->
