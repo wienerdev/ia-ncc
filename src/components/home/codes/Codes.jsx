@@ -6,7 +6,7 @@ export default function Codes() {
         <div className="objectives">
 
             <div className="inicio">
-                <h1 class="tituloCodigo">
+                <h1>
                     Código
                 </h1>
                 <Typography variant="h6" class="typography">

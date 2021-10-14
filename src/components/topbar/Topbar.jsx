@@ -15,6 +15,7 @@ export default function Topbar({menuOpen, setMenuOpen}) {
                         <Link to="/">Home</Link>
                         <Link to="/concepts">Conceito</Link>
                         <Link to="/codes">Código</Link>
+                        <Link to="/imageption">Imageption</Link>
                         {/* <Link to="/sites">Sites de interesse</Link> */}
                 </div>
                 <a className="cta" href="https://forms.gle/h6qAFNfrv9ePnENBA" target="_blank" rel="noreferrer"> <button>Inscreva-se no NCC</button></a>

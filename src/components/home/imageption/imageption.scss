@@ -1,6 +1,6 @@
 @import "../../../global.scss";
 
-.objectives {
+.imageption {
     background-color: white;
     display: flex;
     flex-direction: column;
@@ -41,10 +41,16 @@
 
         .typography {
             text-align: center;
-            padding: 1rem;
-            text-align: justify;
-            font-size: 1.2em;
-            padding: 0 5rem;
+                padding: 1rem;
+                text-align: justify;
+                font-size: 1.2em;
+                padding: 0 5rem;
+        }
+
+        .typographyImageption {
+            text-align: center;
+            font-size: 13px;
+
         }
     }
 
@@ -53,18 +59,12 @@
         margin-left: 25%;
         width: 50%;
         height: 50%;
-
-        @include mobile {
-            max-width: 50%;
-            max-height: 50%;
-            width: 50rem;
-            height: 10rem;
-            
-        }
     }
 
-    #textCode {
-        margin-top: 100px;
+    .resultadoImg {
+        margin-left: 35%;
+        width: 30%;
+        height: 30%;
     }
 
 }

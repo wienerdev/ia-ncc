@@ -15,6 +15,9 @@ export default function Menu({menuOpen, setMenuOpen}) {
                 <Link className="menu-link" to="/codes">Código</Link>
                 </li>
                 <li onClick={() => setMenuOpen(false)}>
+                <Link className="menu-link" to="/imageption">Imageption</Link>
+                </li>
+                <li onClick={() => setMenuOpen(false)}>
                 <a href="https://forms.gle/h6qAFNfrv9ePnENBA" target="_blank" rel="noreferrer"> <button>Inscreva-se no NCC</button></a>
                 </li>
             </ul>
