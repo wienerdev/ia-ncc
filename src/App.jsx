@@ -17,6 +17,7 @@ import {
 function App() {
   const [menuOpen, setMenuOpen] = useState(false);
 
+  
 
   return (
     <Router>
@@ -40,7 +41,9 @@ function App() {
         <Subscription />
       </div>
     </Router>
+    
   );
 }
+
 
 export default App;

@@ -2,7 +2,7 @@ import "./intro.scss"
 
 export default function Intro() {
     return (
-        <div className="home">
+        <div className="home" id="intro">
             <div className="container">
                 <div className='left1'>
                     <h1>Inteligência artificial aplicada a visão computacional</h1>
@@ -17,13 +17,13 @@ export default function Intro() {
                     <h3>Veja o vídeo:</h3>
                 </div>
             </div>
-            <h3>
+            <div className="video">
                 <iframe width="560" height="315"
                     src="https://www.youtube.com/embed/nUxLKbbQWxw"
                     title="YouTube video player" frameborder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowfullscreen></iframe>
-            </h3>
+            </div>
 
         </div>
     )
