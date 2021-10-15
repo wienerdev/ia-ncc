@@ -12,7 +12,7 @@ export default function Menu({menuOpen, setMenuOpen}) {
                 <Link className="menu-link" to="/concepts">Conceito</Link>
                 </li>
                 <li onClick={() => setMenuOpen(false)}>
-                <Link className="menu-link" to="/codes">Código</Link>
+                <Link className="menu-link" to="/codes">Covid-19</Link>
                 </li>
                 <li onClick={() => setMenuOpen(false)}>
                 <Link className="menu-link" to="/imageption">Imageption</Link>

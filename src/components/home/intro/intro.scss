@@ -3,9 +3,26 @@
 .home {
     background-color: white;
     margin-top: 70px;
+    
+    .video {
+        @include mobile {
+            text-align: center;
+        }
+    }
 
     iframe {
         margin-left: 100px;
+        
+
+        @include mobile {
+            width: 380px;
+            margin: 0 auto;
+        }
+    }
+
+    h3 {
+
+        @include mobile {}
     }
 
     .container {
@@ -39,7 +56,7 @@
                 margin: 3rem;
 
                 @include mobile {
-                    margin: 1rem;
+                    margin: .5rem;
 
                 }
             }

@@ -3,7 +3,7 @@ import Typography from '@mui/material/Typography';
 
 export default function Imageption() {
     return (
-        <div className="imageption">
+        <div className="imageption" id="imageption">
             <div className="inicio">
                 <h1>
                     A não-linearidade da escala de cores
