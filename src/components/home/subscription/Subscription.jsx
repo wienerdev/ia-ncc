@@ -8,9 +8,11 @@ export default function Subscription() {
                 <h1> Professores Envolvidos</h1>
             </div>
             <div className="container">
-                <div className="item">
-                    Aderbal Botelho Leite Neto
-                </div>
+                <a href="https://wa.me/5561982104404" target="_blank " rel="noreferrer">
+                    <div className="item">
+                        Aderbal Botelho Leite Neto
+                    </div>
+                </a>
                 {/* <div className="item">
                     Antonio Barbosa Jr.
                 </div>
