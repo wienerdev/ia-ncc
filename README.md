@@ -5,27 +5,34 @@
 <br>
 <h2>🖥️ Home </h2>
 <h3> Parte 1 </h3>
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/78852609/137232860-508e427c-482c-417e-98e7-b80735c28e56.PNG"
-</p>
-  <h3> Parte 2 </h3>
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/78852609/137324546-c2ad3c90-2f6a-4a03-875a-8c6bf7b823fd.PNG"
-</p>
-<h2>🖥️ Conceitos </h2>
+      <img src="https://user-images.githubusercontent.com/78852609/137592333-ddff5319-4f0b-4f82-b2f8-3a84d8ce3d02.PNG">
+  </p>
+<h3> Parte 2 </h3>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/78852609/137592365-998697ea-20cf-461a-bf18-84af3515798b.PNG">
+  </p>
+ <h3> Parte 3 </h3>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/78852609/137592408-f96d3f56-e589-421b-9bd2-0cdbbf6112a1.PNG">
+  </p>
+<h2>🖥️ Conceito </h2>
 <p align="center">
-
-  <img src="https://user-images.githubusercontent.com/78852609/137233040-105c7615-1976-418a-b6ab-290edcae5095.PNG">
+  <img src="https://user-images.githubusercontent.com/78852609/137592427-5ac0a0a3-7fab-46a5-80c9-7b709893c581.PNG">
 </p>
-<h2>🖥️ Código </h2>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/78852609/137233099-bb4c5244-ab55-4ab5-bf46-84c4f87adbb6.PNG">
-</p>
+<h2>🖥️ Covid-19 </h2>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/78852609/137592438-0fd98d09-0573-4434-9b75-744b8a8343de.PNG">
+  </p>
+<h2>🖥️ Imageption </h2>
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/78852609/137592461-0556ce8e-1c00-4f43-846a-eca994fd2ede.PNG">
+  </p>
 </br>
 
 ## 💬 Sobre o projeto
 
-O **NCC - Inteligência Artificial** é uma aplicação web para um software que está sendo desenvolvido em Python por um grupo de estudos do UniCEUB, utilizando Inteligência Artificial, Machine Learning e Deep Learning para detecção de Covid-19 e pneumonia em pulmões infectados (análise de raio-x).
+O **NCC - Inteligência Artificial** é uma aplicação web para um grupo de estudos da faculdade UniCEUB, no qual possui projetos utilizando IA e visão computacional, um dos principais projetos está sendo desenvolvido em Python, utilizando Inteligência Artificial, Machine Learning e Deep Learning para detecção de Covid-19 e pneumonia em pulmões infectados (através das análises de raio-x), veja mais no [site](https://ia.ceubos.com.br/)!
 
 <!-- Ao logar na aplicação com nosso username do GitHub vamos para a página home, nela vemos nossos amigos (seguidores do GitHub), as comunidades que participamos, e os últimos recados deixados. Além disso é possível criar novas comunidades e novos recados! -->
 
@@ -34,9 +41,11 @@ O **NCC - Inteligência Artificial** é uma aplicação web para um software que
 <ul>
   <li>Navegação entre as páginas;</li>
   <li>Botão para registro da participação do Núcleo de Computação Competitiva;</li>
-  <li>Conceitos de todas as tecnologias que estão sendo usadas no desenvolvimento;</li>
-  <li>Passo a passo da execução do código para detecção das doenças através de redes neurais;</li>
-  <li>Lista de todos os professores envolvidos;</li>
+  <li>Conceitos de todas as tecnologias que estão sendo usadas no grupo de estudos para o projeto Covid-19, assim como relatos dos desenvolvedores;</li>
+  <li>Passo a passo da execução do código para detecção das doenças através de redes neurais, IA e visão computacional;</li>
+  <li>Conceitos de como a IA atua na análise de raio-x ( a não-linearidade das cores);</li>
+  <li>Links de todos os projetos desenvolvidos pelo grupo de estudos</li>
+  <li>Responsividade para todos dispositivos móveis;</li>
 </ul>
 
 ## 🛠 Tecnologias utilizadas
@@ -50,7 +59,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📌 Como utilizar?
 
-_Para utilizar o **NCC - Inteligência Artificial**, basta acessá-lo diretamente no seu navegador! [Clique aqui](https://ia-ncc.herokuapp.com/)_
+_Para utilizar o **NCC - Inteligência Artificial**, basta acessá-lo diretamente no seu navegador! [Clique aqui](https://ia.ceubos.com.br/)_
 
 ---
 
