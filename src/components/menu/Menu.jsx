@@ -9,13 +9,13 @@ export default function Menu({menuOpen, setMenuOpen}) {
                 <Link className="menu-link" to="/#intro">Home</Link>
                 </li>
                 <li onClick={() => setMenuOpen(false)}>
-                <Link className="menu-link" to="/concepts">Conceito</Link>
+                <Link className="menu-link" to="/concepts#concepts">Conceito</Link>
                 </li>
                 <li onClick={() => setMenuOpen(false)}>
-                <Link className="menu-link" to="/codes">Covid-19</Link>
+                <Link className="menu-link" to="/codes#codes">Covid-19</Link>
                 </li>
                 <li onClick={() => setMenuOpen(false)}>
-                <Link className="menu-link" to="/imageption">Imageption</Link>
+                <Link className="menu-link" to="/imageption#imageption">Imageption</Link>
                 </li>
                 <li onClick={() => setMenuOpen(false)}>
                 <a href="https://forms.gle/h6qAFNfrv9ePnENBA" target="_blank" rel="noreferrer"> <button>Inscreva-se no NCC</button></a>
